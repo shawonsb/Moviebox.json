@@ -1,9 +1,9 @@
 {
-  "latest_version_code": 50020121,
-  "latest_version_name": "4.0.01.0812.04",
-  "force_update": true,
-  "telegram_url": "https://t.me/modapphub1",
-  "title": "New Update Available",
-  "modder": "Shawon",
-  "changelog": "• Bug fixes\n• Performance improvements\n• UI polish"
+  "show": true,
+  "title": "New Version Available",
+  "message": "Please install the latest version. Bugs have been fixed.",
+  "button": "Install Now",
+  "button_url": "https://t.me/modapphub1",
+  "close_button": "Later",
+  "force": false
 }
