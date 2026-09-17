@@ -1,7 +1,7 @@
 {
   "latest_version_code": 50020121,
   "latest_version_name": "4.0.01.0812.04",
-  "force_update": false,
+  "force_update": true,
   "telegram_url": "https://t.me/your_channel/123",
   "title": "Shawon Update",
   "changelog": "• Bug fixes\n• Performance improvements\n• UI polish"
